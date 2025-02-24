@@ -1,0 +1,19 @@
+.odd, .even{
+background-color: lightcoral;
+font-family: "Verdana" , "DejaVu Sans" , sans-serif;
+}
+
+.even{
+    font-size: 24px;
+    }
+
+#second-elem{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-elem{
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
